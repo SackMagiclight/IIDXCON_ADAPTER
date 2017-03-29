@@ -9,7 +9,8 @@ this application is Premium controller adapter to imput Scratch for LR2.<br>
 When operating Scratch, Fire (shift,ctrl) key event.
 
 ## License
-Please read "LICENSE.md".
+public domain.<br>
+Please read "LICENSE".
 
 ***
 ## Overview(japanese)
@@ -20,4 +21,4 @@ Please read "LICENSE.md".
 スクラッチの操作に応じて(shift,ctrlキーの)キーイベントを発生させます。
 
 ## License(japanese)
-"LICENSE.md"をお読みください。
+public domainとなっています。詳細は"LICENSE"をお読みください。
